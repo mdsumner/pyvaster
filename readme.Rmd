@@ -1,0 +1,16 @@
+---
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## My first python package
+
+
+```{python}
+import stupidest
+
+print(stupidest.hello())
+```
