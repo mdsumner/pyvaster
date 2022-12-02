@@ -1,1 +1,4 @@
-stupidest/__pycache__
+pyvaster/__pycache__
+.Rproj.user
+pyvaster.egg-info
+**/*.pyc

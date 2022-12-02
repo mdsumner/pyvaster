@@ -1,11 +1,11 @@
 from setuptools import setup
 
-setup(name='stupidest',
+setup(name='pyvaster',
       version='0.1',
-      description='The stupidest package',
-      url='http://github.com/dis-organization/stupidest',
+      description='The pyvaster package',
+      url='http://github.com/mdsumner/pyvaster',
       author='Michael D. Sumner',
       author_email='mdsumner@gmail.com',
       license='GPL-3',
-      packages=['stupidest'],
+      packages=['pyvaster'],
       zip_safe=False)

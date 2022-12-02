@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ```{python}
-import stupidest
+import pyvaster
 
-print(stupidest.hello())
+print(pyvaster.hello())
 ```
