@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='pyvaster',
-      version='0.1',
+      version='0.1.001',
       description='The pyvaster package',
       url='http://github.com/mdsumner/pyvaster',
       author='Michael D. Sumner',
